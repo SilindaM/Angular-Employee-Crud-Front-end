@@ -1,7 +1,7 @@
 export class Employees {
     id!:number;
     firstname!:string;
-    lastName!:string;
+    lastname!:string;
     emailId!:string;
     active!:boolean;
 }
